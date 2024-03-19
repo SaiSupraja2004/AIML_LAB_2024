@@ -4,3 +4,5 @@
 [Lab-02](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/LAB_02.ipynb)
 
 [Lab-03](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab03-AIML.ipynb)
+
+[Lab-04](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab_4-checkpoint.ipynb)
