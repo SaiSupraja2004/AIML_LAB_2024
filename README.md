@@ -10,3 +10,5 @@
 5.[Lab-05](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab-5.ipynb)
 
 6.[Lab-06](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Aiml_lab06%20(1).ipynb)
+
+7.[Lab-07](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/lab7.py)
