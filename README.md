@@ -8,3 +8,5 @@
 4.[Lab-04](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab_4-checkpoint.ipynb)
 
 5.[Lab-05](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab-5.ipynb)
+
+6.[Lab-06](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Aiml_lab06%20(1).ipynb)
