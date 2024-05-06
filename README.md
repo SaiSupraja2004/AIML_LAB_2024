@@ -17,4 +17,4 @@
 
 9.[Lab-09](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab_09.ipynb)
 
-10.[Lab-10](
+10.[Lab-10](https://github.com/SaiSupraja2004/Aiml_Lab_2024/blob/main/Lab_10.ipynb)
